@@ -194,7 +194,7 @@
       "availability_min": false
     },
     "pass": false,
-    "runtime_s": 0.51
+    "runtime_s": 0.52
   },
   "G6_provider_outage": {
     "scenario": "G6_provider_outage",
@@ -234,6 +234,6 @@
       "primary_share_after_restore_min": true
     },
     "pass": false,
-    "runtime_s": 0.42
+    "runtime_s": 0.43
   }
 }

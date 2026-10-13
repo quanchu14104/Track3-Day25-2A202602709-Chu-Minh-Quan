@@ -37,7 +37,7 @@
       "amplification_max": true
     },
     "pass": true,
-    "runtime_s": 0.16
+    "runtime_s": 0.17
   },
   "G2_overload_storm": {
     "scenario": "G2_overload_storm",
@@ -119,7 +119,7 @@
       "amplification_max": true
     },
     "pass": true,
-    "runtime_s": 0.11
+    "runtime_s": 0.1
   },
   "G4_slow_region": {
     "scenario": "G4_slow_region",
@@ -245,6 +245,6 @@
       "primary_share_after_restore_min": true
     },
     "pass": true,
-    "runtime_s": 0.14
+    "runtime_s": 0.13
   }
 }
