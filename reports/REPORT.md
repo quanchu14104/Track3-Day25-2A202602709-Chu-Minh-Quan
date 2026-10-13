@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Chu Minh Quan (MSSV: 2A202602709)  **Commit:** `b3c1dc2`  **Điểm tự động (`make grade`):** 84.0 / 88 *(100% test & public benchmark pass; 4 điểm còn lại thuộc dataset ẩn chấm bởi giảng viên)*
+**Họ tên / nhóm:** Chu Minh Quan (MSSV: 2A202602709)  **Commit:** `0824e83`  **Điểm tự động (`make grade`):** 84.0 / 88 *(100% test & public benchmark pass; 4 điểm còn lại thuộc dataset ẩn chấm bởi giảng viên)*
 
 > Mọi nhận định có số liệu đối chiếu từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json` và `reports/cache/*.json`.
 
